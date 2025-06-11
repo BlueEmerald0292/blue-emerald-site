@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Floor Plans – Blue Emerald</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><h1>FLOOR PLANS</h1></header>
+  <section>
+    <img src="images/floor1.jpg" alt="Floor Plan 1">
+    <img src="images/floor2.jpg" alt="Floor Plan 2">
+    <img src="images/floor3.jpg" alt="Floor Plan 3">
+  </section>
+  <footer><a href="index.html">← Back to Home</a></footer>
+</body>
+</html>
